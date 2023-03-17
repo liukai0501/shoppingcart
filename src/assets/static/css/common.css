@@ -1,0 +1,52 @@
+.cover {
+    min-width: 1024px;
+}
+
+body {
+    margin: 0;
+    background-color: #f4f4f4;
+    color: #424242;
+}
+
+div,
+ul,
+li {
+    box-sizing: border-box;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0;
+    font-weight: normal;
+}
+
+a {
+    text-decoration: none;
+    color: #424242;
+}
+
+a:hover {
+    color: #f20;
+}
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+button{
+    border: none;
+    outline: none;
+}
+
+dl,
+dt,
+dd{
+    margin: 0;
+    padding: 0;
+}

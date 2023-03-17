@@ -4,8 +4,6 @@ import Footer from "@/components/Footer/Footer.vue"
 </script>
 <template>
   <Header></Header>
-  <h1>.....</h1>
+  <h1>wo shi address component</h1>
   <Footer></Footer>
 </template>
-
-
